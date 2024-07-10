@@ -1,0 +1,4 @@
+al ilk "Lütfen ilk sayıyı giriniz "
+al iki "Lütfen ikinci sayıyı giriniz "
+yazdır "İki sayının toplamı :"
+yazdır ilk+iki
